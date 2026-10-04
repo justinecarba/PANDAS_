@@ -1,0 +1,12 @@
+
+OrderID,Product,Category,Price,Quantity,Date
+1001,Laptop,Electronics,35000,1,2026-09-01
+1002,Mouse,Accessories,800,3,2026-09-01
+1003,Keyboard,Accessories,1500,2,2026-09-02
+1004,Monitor,Electronics,12000,1,2026-09-02
+1005,Headset,Accessories,2500,4,2026-09-03
+1006,Laptop,Electronics,35000,2,2026-09-03
+1007,Mouse,Accessories,800,5,2026-09-04
+1008,Webcam,Electronics,4500,2,2026-09-04
+1009,Keyboard,Accessories,1500,3,2026-09-05
+1010,Monitor,Electronics,12000,2,2026-09-05
